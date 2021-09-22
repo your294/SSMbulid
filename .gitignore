@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/SSMbulid-01-Hello/target/
+/target/
